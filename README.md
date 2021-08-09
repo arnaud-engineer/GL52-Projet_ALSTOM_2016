@@ -3,7 +3,9 @@
 ## Introduction
 
 A school project of a train configuration editor.
+
 This course project had been made for Alstom, as a partnership. We got no idea if they ever did something with it (I guess probably not, it was just a class project).
+
 I mainly worked on the need analysis and the conception. I wrote most of the reports and draw most of the UML diagrams.
 
 ## Specifications
